@@ -1,6 +1,6 @@
 const ratingEls=document.querySelectorAll(".selection");
 const btnEl=document.getElementById("btn");
-const containerEl=document.querySelector(".data-container");
+const containerEl=document.querySelector(".feedback");
 
 
 let selectedRating=" ";
